@@ -50,10 +50,10 @@ a:hover {
 #map {
   border: 3px #000000 solid;
   position: relative;
-  padding-bottom: 90%;
-  padding-top: 10px;
+  padding-bottom: 100%;
+  //padding-top: 10px;
   margin: 0 auto;
-  hight: 90%;
+  hight: 95%;
   width: 99%;
   overflow: hidden;
 }
@@ -64,7 +64,7 @@ a:hover {
   position: absolute;
   top: 0px;
   left: 0;
-  hight: 90% !important;
+  hight: 95% !important;
   width: 99% !important;
 }
 
